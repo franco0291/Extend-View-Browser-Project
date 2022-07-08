@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f24798-4dee-4ce2-bd80-1e03c57d52b4" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/.name&#10;#&#9;AutomationExtendView.iml&#10;#&#9;AutomationSelenium.iml&#10;#&#9;automationPractice/src/test/ExtendView/Test/MyWorkoutTest.java&#10;#&#9;automationPractice/target/classes/META-INF/AutomationExtendView.kotlin_module&#10;#&#9;automationProject/JenkinsFile&#10;#&#9;automationProject/chromedriver.exe&#10;#&#9;automationProject/target/AutomationSelenium-1.0-SNAPSHOT.jar&#10;#&#9;chromedriver.exe&#10;#&#9;main/.idea/.gitignore&#10;#&#9;main/.idea/misc.xml&#10;#&#9;main/.idea/modules.xml&#10;#&#9;main/.idea/vcs.xml&#10;#&#9;main/ExtendView/.idea/.gitignore&#10;#&#9;main/ExtendView/.idea/misc.xml&#10;#&#9;main/ExtendView/.idea/modules.xml&#10;#&#9;main/ExtendView/.idea/vcs.xml&#10;#&#9;main/ExtendView/Base/BasePage.java&#10;#&#9;main/ExtendView/Base/BaseTest.java&#10;#&#9;main/ExtendView/ExtendView.iml&#10;#&#9;main/ExtendView/PageObjects/CatalogPageObjects.java&#10;#&#9;main/ExtendView/PageObjects/CreatingProgramsStep1to3Objects.java&#10;#&#9;main/ExtendView/PageObjects/DashboardPageObjects.java&#10;#&#9;main/ExtendView/PageObjects/HomePageObjects.java&#10;#&#9;main/ExtendView/PageObjects/LoginPageObjects.java&#10;#&#9;main/ExtendView/PageObjects/MyWorkoutsPageObjects.java&#10;#&#9;main/ExtendView/Resources/data.properties&#10;#&#9;main/ExtendView/Resources/main.iml&#10;#&#9;pom.xml&#10;#&#9;src/main/ExtendView/Base/BasePage.java&#10;#&#9;src/main/ExtendView/Base/BaseTest.java&#10;#&#9;src/main/ExtendView/PageObjects/CatalogPageObjects.java&#10;#&#9;src/main/ExtendView/PageObjects/CreatingProgramsStep1to3Objects.java&#10;#&#9;src/main/ExtendView/PageObjects/DashboardPageObjects.java&#10;#&#9;src/main/ExtendView/PageObjects/HomePageObjects.java&#10;#&#9;src/main/ExtendView/PageObjects/LoginPageObjects.java&#10;#&#9;src/main/ExtendView/PageObjects/MyWorkoutsPageObjects.java&#10;#&#9;src/main/ExtendView/Resources/data.properties&#10;#&#9;src/test/ExtendView/Test/CatalogTest.java&#10;#&#9;src/test/ExtendView/Test/CreatingAProgramTest.java&#10;#&#9;src/test/ExtendView/Test/DashboardTest.java&#10;#&#9;src/test/ExtendView/Test/HomeTest.java&#10;#&#9;src/test/ExtendView/Test/LoginTest.java&#10;#&#9;src/test/ExtendView/Test/MyWorkoutTest.java&#10;#&#9;src/test/TestNG.xml&#10;#&#9;target/classes/.idea/.gitignore&#10;#&#9;target/classes/.idea/misc.xml&#10;#&#9;target/classes/.idea/modules.xml&#10;#&#9;target/classes/.idea/vcs.xml&#10;#&#9;target/classes/Base/BasePage.class&#10;#&#9;target/classes/Base/BaseTest.class&#10;#&#9;target/classes/ExtendView/.idea/.gitignore&#10;#&#9;target/classes/ExtendView/.idea/misc.xml&#10;#&#9;target/classes/ExtendView/.idea/modules.xml&#10;#&#9;target/classes/ExtendView/.idea/vcs.xml&#10;#&#9;target/classes/ExtendView/Base/BasePage.class&#10;#&#9;target/classes/ExtendView/Base/BaseTest.class&#10;#&#9;target/classes/ExtendView/ExtendView.iml&#10;#&#9;target/classes/ExtendView/PageObjects/CatalogPageObjects.class&#10;#&#9;target/classes/ExtendView/PageObjects/CreatingProgramsStep1to3Objects.class&#10;#&#9;target/classes/ExtendView/PageObjects/DashboardPageObjects.class&#10;#&#9;target/classes/ExtendView/PageObjects/HomePageObjects.class&#10;#&#9;target/classes/ExtendView/PageObjects/LoginPageObjects.class&#10;#&#9;target/classes/ExtendView/PageObjects/MyWorkoutsPageObjects.class&#10;#&#9;target/classes/ExtendView/Resources/data.properties&#10;#&#9;target/classes/ExtendView/Resources/main.iml&#10;#&#9;target/classes/ExtendViewTest/CatalogTest.class&#10;#&#9;target/classes/ExtendViewTest/CreatingAProgramTest.class&#10;#&#9;target/classes/ExtendViewTest/DashboardTest.class&#10;#&#9;target/classes/ExtendViewTest/HomeTest.class&#10;#&#9;target/classes/ExtendViewTest/LoginTest.class&#10;#&#9;target/classes/ExtendViewTest/MyWorkoutTest.class&#10;#&#9;target/classes/META-INF/AutomationExtendView.kotlin_module&#10;#&#9;target/classes/META-INF/AutomationSelenium.kotlin_module&#10;#&#9;target/classes/PageObjects/CatalogPageObjects.class&#10;#&#9;target/classes/PageObjects/CreatingProgramsStep1to3Objects.class&#10;#&#9;target/classes/PageObjects/DashboardPageObjects.class&#10;#&#9;target/classes/PageObjects/HomePageObjects.class&#10;#&#9;target/classes/PageObjects/LoginPageObjects.class&#10;#&#9;target/classes/PageObjects/MyWorkoutsPageObjects.class&#10;#&#9;target/classes/Resources/data.properties&#10;#&#9;target/classes/TestNG.xml&#10;#&#9;target/maven-archiver/pom.properties&#10;#&#9;target/surefire-reports/Command line suite/Command line test.html&#10;#&#9;target/surefire-reports/Command line suite/Command line test.xml&#10;#&#9;target/surefire-reports/Command line suite/testng-failed.xml&#10;#&#9;target/surefire-reports/TEST-TestSuite.xml&#10;#&#9;target/surefire-reports/TestSuite.txt&#10;#&#9;target/surefire-reports/bullet_point.png&#10;#&#9;target/surefire-reports/collapseall.gif&#10;#&#9;target/surefire-reports/emailable-report.html&#10;#&#9;target/surefire-reports/failed.png&#10;#&#9;target/surefire-reports/index.html&#10;#&#9;target/surefire-reports/jquery-1.7.1.min.js&#10;#&#9;target/surefire-reports/junitreports/TEST-Test.CatalogTest.xml&#10;#&#9;target/surefire-reports/junitreports/TEST-Test.CreatingAProgramTest.xml&#10;#&#9;target/surefire-reports/junitreports/TEST-Test.HomeTest.xml&#10;#&#9;target/surefire-reports/junitreports/TEST-Test.LoginTest.xml&#10;#&#9;target/surefire-reports/navigator-bullet.png&#10;#&#9;target/surefire-reports/old/Command line suite/Command line test.properties&#10;#&#9;target/surefire-reports/old/Command line suite/classes.html&#10;#&#9;target/surefire-reports/old/Command line suite/groups.html&#10;#&#9;target/surefire-reports/old/Command line suite/index.html&#10;#&#9;target/surefire-reports/old/Command line suite/main.html&#10;#&#9;target/surefire-reports/old/Command line suite/methods-alphabetical.html&#10;#&#9;target/surefire-reports/old/Command line suite/methods-not-run.html&#10;#&#9;target/surefire-reports/old/Command line suite/methods.html&#10;#&#9;target/surefire-reports/old/Command line suite/reporter-output.html&#10;#&#9;target/surefire-reports/old/Command line suite/testng.xml.html&#10;#&#9;target/surefire-reports/old/Command line suite/toc.html&#10;#&#9;target/surefire-reports/old/index.html&#10;#&#9;target/surefire-reports/passed.png&#10;#&#9;target/surefire-reports/skipped.png&#10;#&#9;target/surefire-reports/testng-failed.xml&#10;#&#9;target/surefire-reports/testng-reports.css&#10;#&#9;target/surefire-reports/testng-reports.js&#10;#&#9;target/surefire-reports/testng-results.xml&#10;#&#9;target/surefire-reports/testng.css&#10;#&#9;target/test-classes/META-INF/AutomationExtendView.kotlin_module&#10;#&#9;target/test-classes/Test/CatalogTest.class&#10;#&#9;target/test-classes/Test/CreatingAProgramTest.class&#10;#&#9;target/test-classes/Test/DashboardTest.class&#10;#&#9;target/test-classes/Test/HomeTest.class&#10;#&#9;target/test-classes/Test/LoginTest.class&#10;#&#9;target/test-classes/Test/MyWorkoutTest.class&#10;#&#9;test/ExtendViewTest/CatalogTest.java&#10;#&#9;test/ExtendViewTest/CreatingAProgramTest.java&#10;#&#9;test/ExtendViewTest/DashboardTest.java&#10;#&#9;test/ExtendViewTest/HomeTest.java&#10;#&#9;test/ExtendViewTest/LoginTest.java&#10;#&#9;test/ExtendViewTest/MyWorkoutTest.java&#10;#&#9;test/TestNG.xml" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BCJePoCbLEXmLXNS1KQAl4QwA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Carlos Franco\Desktop\GitClone\Automation-Extend-View\Automation Project EV\src\Test" />
+      <recent name="C:\Users\Carlos Franco\Desktop\GitClone\Automation-Extend-View\Automation Project EV" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Carlos Franco/Desktop/GitClone/Automation-Extend-View/Automation Project EV/src/Test/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation Project EV" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/Test/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Carlos Franco/Desktop/GitClone/Automation-Extend-View/Automation Project EV/src/Test/TestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Carlos Franco\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f24798-4dee-4ce2-bd80-1e03c57d52b4" name="Default Changelist" comment="" />
+      <created>1656404227608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656404227608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="281" key="#Notifications" timestamp="1657262166750">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="532" y="281" key="#Notifications/0.0.1289.819@0.0.1289.819" timestamp="1657262166750" />
+    <state x="129" y="0" key="#Project_Structure" timestamp="1656656788247">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="129" y="0" key="#Project_Structure/0.0.1289.819@0.0.1289.819" timestamp="1656656788247" />
+    <state x="400" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657261669990">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="400" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1289.819@0.0.1289.819" timestamp="1657261669990" />
+    <state x="383" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1656663011894">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="383" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1289.819@0.0.1289.819" timestamp="1656663011894" />
+    <state x="429" y="173" key="FileChooserDialogImpl" timestamp="1656657567423">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="429" y="173" key="FileChooserDialogImpl/0.0.1289.819@0.0.1289.819" timestamp="1656657567423" />
+    <state width="1231" height="201" key="GridCell.Tab.0.bottom" timestamp="1656657275406">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state width="1231" height="201" key="GridCell.Tab.0.bottom/0.0.1289.819@0.0.1289.819" timestamp="1656657275406" />
+    <state width="1231" height="201" key="GridCell.Tab.0.center" timestamp="1656657275406">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state width="1231" height="201" key="GridCell.Tab.0.center/0.0.1289.819@0.0.1289.819" timestamp="1656657275406" />
+    <state width="1231" height="201" key="GridCell.Tab.0.left" timestamp="1656657275406">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state width="1231" height="201" key="GridCell.Tab.0.left/0.0.1289.819@0.0.1289.819" timestamp="1656657275406" />
+    <state width="1231" height="201" key="GridCell.Tab.0.right" timestamp="1656657275406">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state width="1231" height="201" key="GridCell.Tab.0.right/0.0.1289.819@0.0.1289.819" timestamp="1656657275406" />
+    <state x="229" y="161" key="IDE.errors.dialog" timestamp="1657261922413">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="229" y="161" key="IDE.errors.dialog/0.0.1289.819@0.0.1289.819" timestamp="1657261922413" />
+    <state x="175" y="65" key="Maven.ArtifactSearchDialog" timestamp="1656487828863">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="175" y="65" key="Maven.ArtifactSearchDialog/0.0.1289.819@0.0.1289.819" timestamp="1656487828863" />
+    <state x="158" y="64" key="SettingsEditor" timestamp="1656577030484">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="158" y="64" key="SettingsEditor/0.0.1289.819@0.0.1289.819" timestamp="1656577030484" />
+    <state x="237" y="143" key="Vcs.Push.Dialog.v2" timestamp="1656551982804">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="237" y="143" key="Vcs.Push.Dialog.v2/0.0.1289.819@0.0.1289.819" timestamp="1656551982804" />
+    <state x="442" y="215" width="715" height="446" key="chooseDestDirectoryDialog" timestamp="1656657110692">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="442" y="215" width="715" height="446" key="chooseDestDirectoryDialog/0.0.1289.819@0.0.1289.819" timestamp="1656657110692" />
+    <state x="369" y="198" key="git4idea.merge.GitMergeDialog" timestamp="1656551196620">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="369" y="198" key="git4idea.merge.GitMergeDialog/0.0.1289.819@0.0.1289.819" timestamp="1656551196620" />
+    <state x="379" y="304" key="git4idea.ui.GitResetDialog" timestamp="1657261901965">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="379" y="304" key="git4idea.ui.GitResetDialog/0.0.1289.819@0.0.1289.819" timestamp="1657261901965" />
+    <state x="302" y="186" width="672" height="677" key="run.anything.popup" timestamp="1656657275365">
+      <screen x="0" y="0" width="1289" height="819" />
+    </state>
+    <state x="302" y="186" width="672" height="677" key="run.anything.popup/0.0.1289.819@0.0.1289.819" timestamp="1656657275365" />
+  </component>
+</project>

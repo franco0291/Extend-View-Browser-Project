@@ -1,0 +1,61 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Test1" >
+
+    <test name = "Creating a program">
+       <parameter name="username" value="megaonyx91@gmail.com" />
+       <parameter name="password" value="Stars89!" />
+
+
+
+        <classes>
+             <class name= "Test.CatalogTest">
+                 <methods>
+                 <include name = "CheckWorkoutsButton" />
+                 </methods>
+             </class>
+
+            <class name= "Test.LoginTest">
+                <methods>
+                    <include name = "LoginTest" />
+                </methods>
+            </class>
+
+             <class name= "Test.HomeTest">
+                 <methods>
+                     <include name = "CHeckLoginWorks" />
+                     <include name = "checkLogoutWorks"/>
+                     <include name = "footerLinksOpenTest" />
+                     <include name = "CheckHowitWorksButtonWorks"/>
+                     <include name = "checkWorkoutsButton"/>
+                 </methods>
+             </class>
+
+             <class name= "Test.CreatingAProgramTest">
+                <methods>
+                    <include name = "CreateAProgramTest" />
+                    <include name = "TestNumberofExercises"/>
+                </methods>
+             </class>
+
+
+
+             <class name= "Test.MyWorkoutTest">
+                 <methods>
+                     <include name = "CheckWorkoutsButton" />
+                 </methods>
+             </class>
+
+             <class name= "Test.DashboardTest">
+                 <methods>
+                     <include name = "CheckWorkoutsButton" />
+                 </methods>
+             </class>
+
+
+         </classes>
+    </test>
+
+
+</suite>
